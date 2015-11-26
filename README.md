@@ -11,7 +11,7 @@ ManiacDev.Com - https://maniacdev.com - http://feeds.feedburner.com/maniacdev<br
 iPhone &amp; Mac Development - http://iphonedevelopment.blogspot.com/ - http://iphonedevelopment.blogspot.com/feeds/posts/default<br>
 iPhone Programming Tutorials - http://www.icodeblog.com - http://feeds.feedburner.com/icodeblog<br>
 iPhoneclub.nl - http://www.iculture.nl - http://www.iculture.nl/feed/<br>
-James Addyman - http://jamesaddyman.com/ - http://jamesaddyman.com/feed.xml
+James Addyman - http://jamesaddyman.com/ - http://jamesaddyman.com/feed.xml<br>
 Matt Gemmell - http://mattgemmell.com/ - http://mattgemmell.com/feed<br>
 MKBlog - http://blog.mugunthkumar.com - http://feeds.feedburner.com/MugunthKumar<br>
 Mobile News - https://mobilenews.io - https://mobilenews.io/rss<br>
